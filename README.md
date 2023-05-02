@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Juan Alvarez, I studied Software Engineering at Edinburgh Napier University, and now I am ready for the leap to the job market.
-- I’m interested in continuous learning, in finding a "home" where I can start, grow, develop, contribute, and enjoy my career. 
+- 👋 Hi, I’m Juan Alvarez, I studied Software Engineering at Edinburgh Napier University, and now I am working as Technical Trainer at The Software Institute.
 
 
 <!---
